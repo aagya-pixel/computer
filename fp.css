@@ -1,0 +1,29 @@
+body{
+	margin: 10px;
+}
+.hi{
+	background-color: red;
+	text-align: center;
+	height: 40px;
+}
+.hello{
+	background-color: blue;
+	text-align: center;
+	height: 150px;
+	width: 50%;
+	float: left;
+}
+.hey{
+	background-color: purple;
+	text-align: center;
+	float: right;
+	height: 150px;
+	width: 40%
+}
+.huu{
+	background-color: green;
+	text-align: center;
+	height: 250px;
+	width: 100%
+	
+}
